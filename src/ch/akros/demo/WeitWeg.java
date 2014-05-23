@@ -4,4 +4,7 @@ public class WeitWeg {
 	public void doit(){
 		System.out.println("enemene");
 	}
+	public void newFeature(){
+		System.out.println("hallo Feature 2!");
+	}
 }
