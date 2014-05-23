@@ -3,6 +3,7 @@ package ch.akros.demo;
 public class WeitWeg {
 	public void doit(){
 		System.out.println("enemene");
+		RausAlter.raus(999);
 	}
 
 	public void newFeature(){
